@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.jquality1.com/sitemap.xml
